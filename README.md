@@ -32,11 +32,13 @@ feedback processes, policy workflows, and administrative operations.**
 
 ---
 
-## Project Overview
+# Project Overview
 
-The **Employee Digital Platform** is an internal web-based business application developed to provide employees and administrators with a structured digital environment for employee-related workflows.
+The **Employee Digital Platform** is an internal web-based business application developed to provide employees and authorized administrators with a structured digital environment for employee-related workflows.
 
-The system brings multiple processes into a centralized platform, reducing reliance on fragmented or manual workflows while improving accessibility, administration, traceability, and user experience.
+The platform centralizes multiple operational processes into a single system, reducing reliance on fragmented or manual workflows while improving accessibility, administration, traceability, and user experience.
+
+<br>
 
 ### Project Scope
 
@@ -45,37 +47,39 @@ The system brings multiple processes into a centralized platform, reducing relia
 | **Application Type** | Internal Web Application |
 | **User Reach** | Up to 300 users |
 | **Primary Users** | Employees & Authorized Administrators |
-| **Development Scope** | Full-Stack Application Development |
-| **Platform** | Web / Responsive Interface |
-| **Database** | MySQL |
+| **Development Scope** | End-to-End Full-Stack Development |
+| **Platform** | Responsive Web Application |
 | **Backend** | PHP |
+| **Database** | MySQL |
+| **Front-End** | JavaScript, HTML5, CSS3 |
 
 <br>
 
 ---
 
-## Business Challenge
+# Business Challenge
 
-Employee-related processes can become fragmented when communication, feedback, policies, documents, acknowledgements, and administrative workflows are handled through separate or manual methods.
+Employee-related processes can become fragmented when feedback, internal policies, documents, acknowledgements, and administrative workflows are managed through separate or manual methods.
 
-The project focused on building a structured platform capable of:
+The project was developed to provide a structured platform capable of:
 
 - Centralizing employee-facing digital processes
 - Improving accessibility to internal information
 - Creating structured administrative workflows
 - Supporting controlled access to system functions
 - Maintaining organized digital records
-- Providing a consistent user experience across devices
+- Improving traceability of employee-related workflows
+- Providing a consistent responsive user experience
 
 <br>
 
 ---
 
-## The Solution
+# The Solution
 
-I developed a centralized **PHP and MySQL web application** that combines employee-facing functions with administrative management capabilities.
+I developed a centralized **PHP and MySQL business application** combining employee-facing functionality with controlled administrative capabilities.
 
-The platform was designed around three principles:
+The solution was designed around three core principles:
 
 <table>
 <tr>
@@ -84,7 +88,7 @@ The platform was designed around three principles:
 
 ### Accessible
 
-Employees can access relevant functions from a centralized responsive web interface.
+A centralized responsive interface provides employees with access to relevant functions and information.
 
 </td>
 
@@ -92,7 +96,7 @@ Employees can access relevant functions from a centralized responsive web interf
 
 ### Structured
 
-Business processes are converted into organized digital workflows and database-driven records.
+Manual and fragmented processes are converted into organized digital workflows supported by database-driven records.
 
 </td>
 
@@ -100,11 +104,12 @@ Business processes are converted into organized digital workflows and database-d
 
 ### Controlled
 
-System functions and information can be managed according to authorized access requirements.
+Application functions and information are managed according to authorized user access and administrative requirements.
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -119,33 +124,35 @@ System functions and information can be managed according to authorized access r
 
 <td width="50%" valign="top">
 
-### Employee Feedback
+### Employee Feedback Management
 
-Structured employee feedback workflows supporting organized submission and administrative handling.
+Structured workflow supporting employee feedback submission and administrative follow-up.
 
 **Capabilities**
 
-✓ Digital submissions  
-✓ Structured records  
+✓ Digital feedback submissions  
+✓ Submission history  
+✓ Category & priority management  
+✓ Status tracking  
 ✓ Administrative response workflow  
-✓ Submission tracking  
-✓ Controlled information access
+✓ Follow-up actions
 
 </td>
 
 <td width="50%" valign="top">
 
-### Policy & Document Workflows
+### Policy & Acknowledgement
 
-Centralized access to relevant internal policies and documents with structured acknowledgement processes.
+Centralized distribution of internal policies with structured employee acknowledgement.
 
 **Capabilities**
 
-✓ Digital policy distribution  
-✓ Document accessibility  
-✓ Acknowledgement workflow  
-✓ Administrative management  
-✓ Structured records
+✓ Policy distribution  
+✓ Version management  
+✓ Document access  
+✓ Image & video content support  
+✓ Employee acknowledgement  
+✓ Structured policy records
 
 </td>
 
@@ -161,25 +168,26 @@ Application functionality can be presented according to authorized user access.
 
 **Capabilities**
 
-✓ Access control  
-✓ Role-aware functions  
-✓ Controlled administrative features  
+✓ Controlled application access  
+✓ Role-aware functionality  
+✓ Restricted administrative features  
 ✓ Structured user management
 
 </td>
 
 <td width="50%" valign="top">
 
-### Administration
+### Administrative Workflows
 
-Administrative tools support management of employee-facing information and system workflows.
+Administrative functions support structured management of employee-facing information and application workflows.
 
 **Capabilities**
 
 ✓ Record management  
 ✓ Workflow administration  
 ✓ User-related functions  
-✓ Centralized operational visibility
+✓ Content management  
+✓ Operational visibility
 
 </td>
 
@@ -193,87 +201,157 @@ Administrative tools support management of employee-facing information and syste
 
 # System Showcase
 
+Only selected employee-facing workflows that are suitable for a public professional portfolio are presented below.
+
+Administrative interfaces containing employee information or other sensitive operational records are intentionally excluded.
+
+<br>
+
+## 01 · Employee Feedback Management
+
+Employee-facing workflow designed for structured feedback submission, submission tracking, administrative follow-up, and historical visibility.
+
+<br>
+
+<p align="center">
+  <img
+    src="./assets/employee-feedback-workflow.png"
+    width="100%"
+    alt="Employee Feedback Management Workflow"
+  />
+</p>
+
+<br>
+
+### Capabilities Demonstrated
+
 <div align="center">
 
-### Screenshots will be presented using sanitized portfolio data.
+`DIGITAL SUBMISSION`
+&nbsp;
+`STATUS TRACKING`
+&nbsp;
+`PRIORITY MANAGEMENT`
 
-<sub>
-Employee identities, confidential submissions, internal URLs, credentials, production infrastructure,
-and sensitive organizational information are excluded.
-</sub>
+<br><br>
+
+`ADMINISTRATIVE RESPONSE`
+&nbsp;
+`SUBMISSION HISTORY`
+&nbsp;
+`FOLLOW-UP ACTIONS`
 
 </div>
 
 <br>
 
-### Dashboard
-
-> **Screenshot Placeholder**  
-> Main employee-facing dashboard showing the centralized system interface.
-
-<br>
-
-### Employee Workflow
-
-> **Screenshot Placeholder**  
-> Example of an employee-facing workflow using sanitized demonstration content.
-
-<br>
-
-### Administration
-
-> **Screenshot Placeholder**  
-> Administrative interface demonstrating system management capabilities without production information.
+The interface provides a centralized employee view of feedback records including submission reference, category, priority, current status, administrative response status, date, and available actions.
 
 <br>
 
 ---
 
-## My Contribution
+## 02 · Policy & Acknowledgement Management
 
-This project involved the complete application lifecycle rather than a single development task.
+Structured employee policy distribution supporting version-controlled content, multiple communication formats, and acknowledgement recording.
+
+<br>
+
+<p align="center">
+  <img
+    src="./assets/policy-acknowledgement-workflow.png"
+    width="100%"
+    alt="Employee Policy and Acknowledgement Workflow"
+  />
+</p>
+
+<br>
+
+### Capabilities Demonstrated
+
+<div align="center">
+
+`POLICY VERSIONING`
+&nbsp;
+`DOCUMENT ACCESS`
+&nbsp;
+`IMAGE CONTENT`
+
+<br><br>
+
+`VIDEO CONTENT`
+&nbsp;
+`EMPLOYEE ACKNOWLEDGEMENT`
+&nbsp;
+`STRUCTURED RECORDS`
+
+</div>
+
+<br>
+
+The workflow allows active policies to be presented in structured versions while employees can access available document, image, or video content before recording acknowledgement of the applicable policy version.
+
+<br>
+
+---
+
+## Why Only Selected Screens Are Shown
+
+This portfolio intentionally demonstrates **selected application capabilities rather than the complete production environment**.
+
+Additional administrative modules exist, but interfaces containing employee records, access-management information, internal operational records, or other sensitive information are not included in this public repository.
+
+This approach allows the project to demonstrate real application development work without unnecessarily exposing production information.
+
+<br>
+
+---
+
+# My Contribution
+
+This project involved the **complete application lifecycle**, rather than a single development task.
 
 <div align="center">
 
 ### `01` Requirements Analysis
 
-Understanding operational requirements and existing workflows.
+Understanding operational requirements and existing business processes.
 
 ↓
 
-### `02` Solution Design
+### `02` Process & Solution Design
 
-Translating business requirements into system functions and application workflows.
+Translating operational requirements into structured digital workflows.
 
 ↓
 
 ### `03` Database Design
 
-Designing structured data storage and relationships using MySQL.
+Designing application data structures and relationships using MySQL.
 
 ↓
 
 ### `04` Full-Stack Development
 
-Developing backend functionality and responsive user interfaces.
+Developing server-side functionality, business logic, database integration, and responsive user interfaces.
 
 ↓
 
 ### `05` Testing & Deployment
 
-Testing application workflows and deploying the solution into the working environment.
+Testing application workflows and deploying the solution into the operational environment.
 
 ↓
 
-### `06` User Adoption
+### `06` User Adoption & Support
 
-Supporting users through implementation and application usage.
+Supporting implementation, application usage, and user requirements.
 
 ↓
 
 ### `07` Continuous Improvement
 
-Maintaining and improving the platform based on operational requirements.
+Maintaining and improving application functionality based on evolving operational requirements.
 
 </div>
 
@@ -281,7 +359,7 @@ Maintaining and improving the platform based on operational requirements.
 
 ---
 
-## Technology Stack
+# Technology Stack
 
 <div align="center">
 
@@ -297,30 +375,32 @@ Maintaining and improving the platform based on operational requirements.
 
 | Layer | Technology / Approach |
 |---|---|
-| **Backend** | PHP |
+| **Backend Development** | PHP |
 | **Database** | MySQL |
-| **Front-End** | HTML5, CSS3, JavaScript |
-| **Architecture** | Database-driven web application |
-| **Interface** | Responsive web design |
-| **Deployment** | Internal business environment |
+| **Client-Side Logic** | JavaScript |
+| **Interface** | HTML5 / CSS3 |
+| **Application Model** | Database-Driven Web Application |
+| **Design Approach** | Responsive Web Interface |
+| **Deployment Context** | Internal Business Environment |
 
 <br>
 
 ---
 
-## Security & Privacy Considerations
+# Security & Privacy Considerations
 
-Because the platform supports employee-facing processes, privacy and access control are important parts of the application design.
+Because the platform supports employee-facing processes, **privacy, access control, and responsible information handling** are important application considerations.
 
-The system includes considerations around:
+The design includes considerations around:
 
 - Authentication and controlled system access
-- Role-based functionality
+- Role-based application functionality
 - Protection of employee-related information
-- Controlled administrative functions
+- Restricted administrative capabilities
+- Controlled access to sensitive workflows
 - Secure handling of internal records
-- Restricted access to sensitive workflows
-- Separation of authorized administrative capabilities
+- Separation of employee and administrative functions
+- Responsible disclosure of production information
 
 > Detailed production security architecture is intentionally not disclosed in this public portfolio.
 
@@ -328,17 +408,19 @@ The system includes considerations around:
 
 ---
 
-## Project Outcome
+# Project Outcome
 
-The project demonstrates the ability to take a real operational requirement and deliver a working business application across the full development lifecycle.
+The project demonstrates the ability to take real operational requirements and deliver a working business application across the complete development lifecycle.
 
 ### Key Outcomes
 
 ✓ Centralized employee-facing digital platform  
-✓ Structured digital workflows  
+✓ Structured digital business workflows  
 ✓ Database-driven record management  
-✓ Administrative management capabilities  
+✓ Policy versioning and acknowledgement processes  
+✓ Employee feedback and follow-up workflow  
 ✓ Responsive employee interface  
+✓ Controlled administrative functionality  
 ✓ Support for up to **300 users**  
 ✓ Ongoing operational support and continuous improvement
 
@@ -346,7 +428,7 @@ The project demonstrates the ability to take a real operational requirement and 
 
 ---
 
-## What This Project Demonstrates
+# What This Project Demonstrates
 
 <table>
 
@@ -354,27 +436,30 @@ The project demonstrates the ability to take a real operational requirement and 
 
 <td width="50%" valign="top">
 
-### Technical
+### Technical Capability
 
 - Full-Stack Web Development
 - PHP Application Development
 - MySQL Database Design
-- JavaScript
+- JavaScript Development
 - Responsive UI Development
+- Database-Driven Workflows
+- Application Testing
 - Application Deployment
 
 </td>
 
 <td width="50%" valign="top">
 
-### Professional
+### Professional Capability
 
 - Requirements Analysis
 - Business Process Digitalization
-- System Design
+- Solution Design
 - User-Focused Development
-- Deployment & Implementation
+- Operational Implementation
 - User Support
+- Privacy-Conscious Development
 - Continuous Improvement
 
 </td>
@@ -387,25 +472,26 @@ The project demonstrates the ability to take a real operational requirement and 
 
 ---
 
-## Confidentiality Notice
+# Confidentiality & Portfolio Disclosure
 
-This repository is a **portfolio case study only**.
+This repository is a **professional portfolio case study only**.
 
 The production application is an internal proprietary business system.
 
-For security, privacy, and confidentiality reasons, this public repository does **not** contain:
+For security, privacy, and confidentiality reasons, this public repository intentionally does **not** contain:
 
 - Production source code
-- Database schemas or dumps
+- Database schemas or database dumps
 - Authentication credentials
-- Employee personal data
-- Confidential submissions
-- Production URLs
+- Employee personal information
+- Confidential feedback submissions
+- Administrative employee records
+- Production URLs or domains
 - Internal server information
-- Security configuration
+- Security configurations
 - Organization-specific infrastructure details
 
-Only sanitized, high-level information suitable for a professional portfolio is presented.
+Screenshots are limited to selected interfaces considered appropriate for public portfolio presentation.
 
 <br>
 
@@ -413,13 +499,21 @@ Only sanitized, high-level information suitable for a professional portfolio is 
 
 <div align="center">
 
-### Employee Digital Platform
+## Employee Digital Platform
 
-**Full-Stack Business Application Development**
+### Full-Stack Business Application Development
 
-`Business Systems` &nbsp;•&nbsp; `Employee Experience` &nbsp;•&nbsp; `Process Digitalization`
+`BUSINESS SYSTEMS`
+&nbsp; • &nbsp;
+`EMPLOYEE EXPERIENCE`
+&nbsp; • &nbsp;
+`PROCESS DIGITALIZATION`
 
-<br>
+<br><br>
+
+**Designed · Developed · Deployed · Supported**
+
+<br><br>
 
 [← Back to Professional Portfolio](https://github.com/iwan2408)
 
